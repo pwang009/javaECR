@@ -1,0 +1,69 @@
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.classpath
+.project
+.settings/
+bin/
+*.swp
+*.swo
+
+# Eclipse
+.metadata/
+
+# VS Code
+.vscode/
+
+# Mac
+.DS_Store
+
+# Docker
+docker-compose.yml
+docker-compose.override.yml
+*.env
+
+# Logs
+*.log
+logs/
+
+# Temp files
+*.tmp
+*.bak
+
+# System Files
+Thumbs.db
+
+# Build results
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Unit test reports
+TEST*.xml
+surefire-reports/
+failsafe-reports/
+
+# Executable files
+*.exe
+*.bat
+*.sh
+
+# Local development files
+local.properties
+.env.local
