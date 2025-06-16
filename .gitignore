@@ -62,7 +62,7 @@ failsafe-reports/
 # Executable files
 *.exe
 *.bat
-*.sh
+# *.sh
 
 # Local development files
 local.properties
