@@ -16,6 +16,11 @@ docker run --rm hello-world-api java -version
 docker run --rm hello-world-api cat /etc/os-release
 ```
 
+### to create everything
+```sh
+./pushToECR.sh <repo_name>
+```
+
 ### remove local images
 ```sh
 docker system prune -af
